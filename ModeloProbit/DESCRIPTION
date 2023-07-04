@@ -1,0 +1,13 @@
+Package: Modeloprobit
+Type: Package
+Title: Modelo Probit
+Version: 0.1.0
+Author: Maria Fernanda Mosso Barrera & Mayra Alejandra Ramirez Morales 
+Maintainer: The package maintainer <marifer.mosso01@gmail.com>
+Description: El paquete proporciona una solución personalizada para el análisis de regresión con variables de respuesta binaria. Permite cargar datos desde archivos CSV, ajustar el modelo Probit utilizando la función glm de R y obtener coeficientes estimados. Además, ofrece funcionalidades para realizar predicciones de probabilidades utilizando el modelo ajustado. 
+    Este paquete brinda flexibilidad y control total sobre el proceso de ajuste del modelo Probit, permitiendo a los usuarios personalizar y adaptar el análisis a sus necesidades específicas.
+Reference: Escalante, R., Catalán, H., & Basurto, S. (2013). Determinantes del crédito en el sector agropecuario mexicano: un análisis mediante un modelo Probit. Cuadernos de desarrollo rural, 10(71), 101-124.    
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
